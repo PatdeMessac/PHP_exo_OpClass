@@ -1,2 +1,3 @@
 # PHP_exo_OpClass
-exo PHP
+##exo PHP
+###Code Academie Rennes 2016
